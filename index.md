@@ -4,6 +4,11 @@
 A series of online introductory workshops designed by the <a href="https://cds.library.nd.edu/">Navari Family Center for Digital Scholarship</a> and the <a href="https://genomics.nd.edu/">Genomics and Bioinformatics Core Facility</a> to help incoming Life Sciences graduate students hit the ground running this fall semester!
 
 This series of workshops is designed to help participants starting out with minimal knowledge of command line tools work up to performing tasks such as creating simple R scripts for data analysis. This series will also introduce attendees to computing resources available to them at Notre Dame. While this program is designed for incoming Life Sciences graduate students, it is open to anyone who would like to learn more about bioinformatics.
+* * *
+
+View Detailed [Carpentries Curriculum](https://ndlib-cds.github.io/2020-07-27-BIP/) used during BIP Week.
+
+* * *
 
 Monday, July 27
 
