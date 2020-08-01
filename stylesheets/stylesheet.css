@@ -221,6 +221,10 @@ hr {
   opacity: 0.6;
   background: url("../images/blacktocat.png") 0 0 no-repeat;
 }
+.btn-carpentries .icon {
+  opacity: 0.6;
+  background: url("../images/Badge_Carpentries_icon.png") 0 0 no-repeat;
+}
 
 /* Links
    a, a:hover, a:visited
