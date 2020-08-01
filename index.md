@@ -7,6 +7,7 @@ This series of workshops is designed to help participants starting out with mini
 * * *
 
 View Detailed [Carpentries Curriculum](https://ndlib-cds.github.io/2020-07-27-BIP/) used during BIP Week.
+View [Session Videos](https://notredame.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=d73da3de-2ed2-4e50-93aa-ac050169389f)  recorded during BIP Week. 
 
 * * *
 
