@@ -26,7 +26,7 @@ Tuesday, July 28
 
 *   9:45am - 10:50am: Data Wrangling and Processing for Genomics Part 1 of 3 - Resource: [wrangling-genomics](https://datacarpentry.org/wrangling-genomics/)
 *   11am - 11:55am: Data Wrangling and processing for Genomics Part 2 of 3 - Resource: [wrangling-genomics](https://datacarpentry.org/wrangling-genomics/)
-*   12:00pm - 1:00pm: Bring Your Own Lunch Session—Bioinformatics Datasets & Other Library Resources
+*   12:00pm - 1:00pm: Bring Your Own Lunch Session—Hesburgh Libraries Resources: [Libraries Presentation](https://docs.google.com/presentation/d/1L23bclv0efpTR6Oj60-gFuRGZeuM-mz8Un3VRvuCWAM/edit?usp=sharing)
 *   1:15pm - 3:00pm: Data Wrangling and Processing for Genomics Part 3 of 3 - Resource: [wrangling-genomics](https://datacarpentry.org/wrangling-genomics/)
 *   3:15pm - 3:55pm: Databases and SQL Part 3 of 5 - Resource: [sql-novice-survey](http://swcarpentry.github.io/sql-novice-survey/ )
 *   4:00pm - 4:55pm: Databases and SQL Part 4 of 5 - Resource: [sql-novice-survey](http://swcarpentry.github.io/sql-novice-survey/ )
@@ -35,7 +35,7 @@ Wednesday, July 29
 
 *   9:30am - 10:15am: Introduction to R and RStudio for Genomics Part 1 of 5 - Resource: [genomics-r-intro](https://datacarpentry.org/genomics-r-intro/)
 *   10:30am - 11:50am: Introduction to R and RStudio for Genomics Part 2 of 5 - Resource: [genomics-r-intro](https://datacarpentry.org/genomics-r-intro/)
-*   12:00pm - 1:00pm: Bring Your Own Lunch Session—Introduction to ORCID and OSF
+*   12:00pm - 1:00pm: Bring Your Own Lunch Session—Introduction to ORCID and OSF - Resource: [ORCID and OSF Intro](https://osf.io/5vp6j/)
 *   1:15pm - 2:45pm: Introduction to R and RStudio for Genomics Part 3 of 5 - Resource: [genomics-r-intro](https://datacarpentry.org/genomics-r-intro/)
 *   3:15 - 4:00pm: Databases and SQL Part 5 of 5 - Resource: [ql-novice-survey/11-prog-R](http://swcarpentry.github.io/sql-novice-survey/11-prog-R/index.html)
 
