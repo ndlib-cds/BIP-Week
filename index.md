@@ -15,7 +15,7 @@ View [Session Videos](https://notredame.hosted.panopto.com/Panopto/Pages/Session
 Monday, July 27
 
 *   9:00am - 9:30am: Bioinformatics Introduction at Notre Dame
-*   9:30am - 10:15am: Using Center for Research Computing (CRC) Resources
+*   9:30am - 10:15am: Using Center for Research Computing (CRC) Resources[Use our Services](https://crc.nd.edu/services/use-our-services/)
 *   10:20am - 11:10am: The Unix Shell Part 1 of 2 - Resource: [lc-shell](https://librarycarpentry.org/lc-shell/)
 *   11:15am - 12:15pm: The Unix Shell Part 2 of 2 - Resource: [lc-shell](https://librarycarpentry.org/lc-shell/)
 *   1:15pm - 2:45pm: Project Organization and Management for Genomics - Resource: [organization-genomics](https://datacarpentry.org/organization-genomics/ )
